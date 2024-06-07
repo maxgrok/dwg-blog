@@ -17,7 +17,7 @@ tags:
 ---
 
 
-If you have found this blog, you have probably read the recent report from a large study out of the Michigan State Univ of young children being overdiagnosed with ADHD. From a data set of 12,000 children, the authored discovered that children who were the youngest in class had a higher likely of being diagnosed with ADHD, possibly inaccurately. To read futher on the public annoucement, go to http://abcnews.go.com/Health/Wellness/adhd-misdiagnoses-identified-study/story?id=11418898
+If you have found this blog, you have probably read the recent report from a large study out of the Michigan State Univ of young children being overdiagnosed with ADHD. From a data set of 12,000 children, the authored discovered that children who were the youngest in class had a higher likely of being diagnosed with ADHD, possibly inaccurately. To read futher on the public annoucement, go to [ABC News: ADHD Misdiagnoses Identified by Study](http://abcnews.go.com/Health/Wellness/adhd-misdiagnoses-identified-study/story?id=11418898).
 
 So, what to make of this. First, the study has not been published yet so there is no way to assess the method of data collection. Why is this important? Because the conclusions of a study are strongly influenced by the way data has been collected and analyzed. Remember the expression “Garbage in, garbage out”? The quality of data is critical to the validity of the interpretation and conclusions. This comment in no way impeaches the study, it just adds a greater awareness of how to evaluate scientific conclusions.
 
