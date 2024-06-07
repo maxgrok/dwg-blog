@@ -17,8 +17,8 @@ title: Dr. David Goodman's Blog
 email: david@davidwgoodman.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is to share insight and observations into adult attention deficit disorder for informational and educational purposes only.
-twitter_username: username
-github_username: username
+#twitter_username: username
+#github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -73,8 +73,8 @@ author:
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
 
-footer:
-  links:
+# footer:
+  # links:
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
