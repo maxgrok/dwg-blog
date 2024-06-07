@@ -3,6 +3,8 @@ title: "Why Do We Need Another ADHD Blog?"
 date: 2010-08-16T00:34:30-04:00
 categories:
   - blog
+  - Clinician's Corner
+  - Living with Adult ADHD
 tags:
   - ADD
   - ADHD
