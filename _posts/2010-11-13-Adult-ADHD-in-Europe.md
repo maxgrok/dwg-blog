@@ -3,11 +3,11 @@ title: "Adult ADHD In Europe"
 date: 2010-11-13T00:34:30-04:00
 categories:
   - blog
-tags:
-  - ADD
   - Living With ADD
   - Clinician's Corner
   - Research
+tags:
+  - ADD
   - ADHD
   - adult ADD
   - adult ADHD
